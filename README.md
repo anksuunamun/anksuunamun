@@ -2,9 +2,7 @@
 
 ## 📗 About me
 
-Hey! Glad to see you on my github profile page.
-
-My name is Veronika. I'm a frontend developer, and I really enjoy it.
+Hey! My name is Veronika. Glad to see you on my github profile page.
 
 ## ✅ Languages and tools
 
